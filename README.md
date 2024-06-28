@@ -1,7 +1,7 @@
 # AEM WCM Core Components
 
 [![Test](https://github.com/adobe/aem-core-wcm-components/workflows/Test/badge.svg)](https://github.com/adobe/aem-core-wcm-components/actions?query=workflow%3ATest)
-[![Code Coverage](https://codecov.io/gh/adobe/aem-core-wcm-components/branch/master/graph/badge.svg)](https://codecov.io/gh/adobe/aem-core-wcm-components)
+[dada ada ada ada ada ad a da ada adadad![Code Coverage](https://codecov.io/gh/adobe/aem-core-wcm-components/branch/master/graph/badge.svg)](https://codecov.io/gh/adobe/aem-core-wcm-components)
 ![Maven Central](https://img.shields.io/maven-metadata/v?metadataUrl=https%3A%2F%2Frepo1.maven.org%2Fmaven2%2Fcom%2Fadobe%2Fcq%2Fcore.wcm.components.all%2Fmaven-metadata.xml)
 [![javadoc](https://javadoc.io/badge2/com.adobe.cq/core.wcm.components.core/javadoc.svg)](https://javadoc.io/doc/com.adobe.cq/core.wcm.components.core)
 
